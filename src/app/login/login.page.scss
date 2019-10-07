@@ -1,0 +1,15 @@
+:host {
+    ion-content {
+        --background: linear-gradient(135deg, var(--ion-color-primary-contrast), var(--ion-color-primary));
+    }
+
+}
+
+.main_part {
+    margin-top: 30vh;
+}
+
+.bottom_part {
+    text-align: center;
+    display: block;
+}
